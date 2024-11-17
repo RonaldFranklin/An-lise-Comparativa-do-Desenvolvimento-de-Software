@@ -12,7 +12,7 @@ Cada abordagem foi baseada em um protótipo de baixa fidelidade, permitindo a in
 
 O objetivo dessa análise foi compreender como as diferentes abordagens impactaram a qualidade do código, a experiência do usuário e a eficiência no desenvolvimento.
 
-- **Tela de Serviços**: `./imagens/Prototipo baixa fidelidade.jpg`
+- **Tela de Serviços**: `./imagens/Prototipo baixa fidelidade.png`
 
 
 ## Comparação das Telas
