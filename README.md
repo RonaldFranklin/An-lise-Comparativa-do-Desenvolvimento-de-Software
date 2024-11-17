@@ -8,7 +8,9 @@ Este repositório apresenta o resultado de uma análise comparativa entre três 
 
 ## Introdução
 
-Cada abordagem teve uma interpretação própria da aplicação proposta, o que gerou resultados diferentes, tanto em termos de funcionalidades quanto de design e implementação. O objetivo dessa análise foi compreender como as diferentes abordagens impactaram a qualidade do código, a experiência do usuário e a eficiência no desenvolvimento.
+Cada abordagem foi baseada em um protótipo de baixa fidelidade, permitindo a interpretação livre dos desenvolvedores e da IA para a criação das telas e funcionalidades. Essa liberdade proporcionou resultados distintos em termos de funcionalidades, design e implementação, destacando os impactos das limitações e das forças de cada abordagem.
+
+O objetivo dessa análise foi compreender como as diferentes abordagens impactaram a qualidade do código, a experiência do usuário e a eficiência no desenvolvimento.
 
 ## Comparação das Telas
 
@@ -44,7 +46,7 @@ Cada abordagem teve uma interpretação própria da aplicação proposta, o que 
 
 ## Conclusão
 
-Essa comparação destaca as vantagens e limitações de cada abordagem. Enquanto a IA demonstrou eficiência na criação inicial, apresentou limitações em usabilidade e resolução de bugs. O desenvolvedor humano especializado em back-end entregou um código funcional, porém com limitações no front-end. A abordagem colaborativa, que combinou IA e desenvolvedor, apresentou os melhores resultados, unindo o potencial de automação da IA com a expertise humana.
+Essa comparação destaca as vantagens e limitações de cada abordagem. A IA demonstrou eficiência na criação inicial, mas apresentou limitações em usabilidade e resolução de bugs. O desenvolvedor humano especializado em back-end entregou um código funcional, porém com limitações no front-end. A abordagem colaborativa, que combinou IA e desenvolvedor, apresentou os melhores resultados, unindo o potencial de automação da IA com a expertise humana.
 
 ## Imagens das Telas
 
